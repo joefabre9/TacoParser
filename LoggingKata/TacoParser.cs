@@ -3,6 +3,8 @@
     /// <summary>
     /// Parses a POI file to locate all the Taco Bells
     /// </summary>
+    /// Joe Fabre
+    
     public class TacoParser
     {
         readonly ILog logger = new TacoLogger();
